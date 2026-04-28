@@ -8,3 +8,7 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/kofic-box-office.iml
+/modules.xml
+/inspectionProfiles/profiles_settings.xml
+/vcs.xml
